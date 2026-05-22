@@ -114,3 +114,6 @@ export PATH="~/Documents/Programming/flutter/flutter/bin:~/.local/bin:$PATH"
 
 eval "$(zoxide init zsh)"
 alias cd=z
+
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
