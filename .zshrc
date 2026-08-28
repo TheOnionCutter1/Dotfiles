@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export PATH="~/Documents/Programming/flutter/flutter/bin:~/.local/bin:$PATH"
+export PATH="~/Documents/Programming/flutter/flutter/bin:/home/omerm/.local/bin:$PATH"
 
 eval "$(zoxide init zsh)"
 alias cd=z
